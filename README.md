@@ -51,8 +51,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Prajwalkhadepatil/Prajwalkhadepatil/output/snake.svg" alt="Snake animation" />
-
-###
