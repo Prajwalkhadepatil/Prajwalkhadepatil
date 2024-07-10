@@ -1,4 +1,4 @@
-<h2 align="left">Hi There👋! My name is Prajwal Khadepatil and I'm a Passionate Full Stack Developer from Canada</h2>
+<h2 align="left">Hi There👋! My name is Prajwal Khadepatil and I'm a Passionate Developer from Canada</h2>
 
 ###
 
