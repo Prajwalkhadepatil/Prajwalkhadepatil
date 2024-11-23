@@ -1,4 +1,4 @@
-<h2 align="left">Hi There👋! My name is Prajwal Khadepatil and I'm a Passionate Developer from Toronto, Canada</h2>
+<h2 align="left">Hi There👋! My name is Prajwal Khadepatil and I'm a Passionate Data Analyst from Toronto, Canada</h2>
 
 ###
 
